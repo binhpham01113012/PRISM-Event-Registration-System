@@ -36,6 +36,4 @@ members throughout the development and testing process.
 This project gave me hands-on experience with full-stack web development,
 database design, troubleshooting, and collaborative software development.
 
-## Screenshots
 
-### Login Page
